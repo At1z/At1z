@@ -5,7 +5,7 @@
   </div>
   <h3>Leetcode Java Enjoyer</h3>
   <h3>Currently a third-year ICT student at AGH</h3>
-  <div style="font-size: 24px; color: #ffcc00; padding-left: 20px;"> 
+  <div style="font-size: 24px; color: #ffcc00; padding-left: 100px;"> 
     ╱|、<br>
     (˚ˎ 。7 <br>
     |、˜〵 <br>
