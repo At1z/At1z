@@ -1,16 +1,15 @@
-<div>
+<div style="text-align: center;">
   <div>
-    <div style="text-align: center;">
-      <h1>Hi, I'm Adrian </h1>
-      <h3>Leetcode Java Enjoyer</h3>
-      <h3>Currently a third-year ICT student at AGH</h3>
-      </div>
-      <div>
-                            ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                           じしˍ,)ノ
-      </div>
+    <h1 style="display: inline; color: #ffcc00;">Hi, I'm Adrian </h1>
+    <span style="font-size: 48px; color: #ffcc00;"></span>
+  </div>
+  <h3>Leetcode Java Enjoyer</h3>
+  <h3>Currently a third-year ICT student at AGH</h3>
+  <div style="font-size: 24px; color: #ffcc00;"> 
+    ╱|、<br>
+    (˚ˎ 。7 <br>
+    |、˜〵 <br>
+    じしˍ,)ノ
   </div>
   <div>
     <a href="https://github.com/At1z">
@@ -18,7 +17,6 @@
     </a>
   </div>
 </div>
-
 
 <!--
 **At1z/At1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
