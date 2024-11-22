@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╱|、<br>
   &nbsp;&nbsp;&nbsp;&nbsp;(˚ˎ 。7 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;|、˜〵 <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;じしˍ,)ノ
+  &nbsp;&nbsp;&nbsp;じしˍ,)ノ
 </div>
     <a href="https://github.com/At1z">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=At1z&size_weight=0.4&count_weight=0.4&&hide=matlab,jupyter%20notebook,css,c,cmake&layout=donut&langs_count=6&theme=transparent" width="550"/>
