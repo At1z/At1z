@@ -6,7 +6,7 @@
   <h3>Leetcode Java Enjoyer</h3>
   <h3>Currently a third-year ICT student at AGH</h3>
   <div style="font-size: 24px; color: #ffcc00;"> 
-    ╱|、<br>
+      ╱|、<br>
     (˚ˎ 。7 <br>
     |、˜〵 <br>
     じしˍ,)ノ
