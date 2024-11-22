@@ -1,9 +1,9 @@
 # Hi, I'm Adrian
-### Leetcode Java Enjoyer
-### Currently a third-year ICT student
+## Leetcode Java Enjoyer
+## Currently a third-year ICT student
 
 <a href="https://github.com/At1z">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=At1z&size_weight=0.5&count_weight=0.5&&hide=matlab,jupyter%20notebook,css,c,cmake&layout=donut&langs_count=6&theme=transparent" width="800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=At1z&size_weight=0.35&count_weight=0.35&&hide=matlab,jupyter%20notebook,css,c,cmake&layout=donut&langs_count=6&theme=transparent" width="600"/>
 </a>
 
 
