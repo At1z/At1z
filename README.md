@@ -1,6 +1,10 @@
 <div style="text-align: center;">
   <div>
     <h1 style="display: inline; color: #ffcc00;">Hi, I'm Adrian </h1>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                へ  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      ૮  >  <)        
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       /  ⁻  ៸|           
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  乀(ˍ, ل ل     
     <span style="font-size: 48px; color: #ffcc00;"></span>
   </div>
   <h3>Leetcode Java Enjoyer</h3>
