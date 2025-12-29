@@ -4,16 +4,16 @@
     <span style="font-size: 48px; color: #ffcc00;"></span>
   </div>
   <h3>Leetcode Java Enjoyer</h3>
-  <h3>Currently a third-year ICT student at AGH</h3>
+  <h3>Currently a fourth-year ICT student at AGH</h3>
   <div style="font-size: 24px; color: #ffcc00;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╱| 、<br>
   &nbsp;&nbsp;&nbsp;&nbsp;(˚ˎ 。7 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;|、˜ 〵 <br>
   &nbsp;&nbsp;&nbsp;じし&nbsp; ˍ,)ノ
 </div>
-    <a href="https://github.com/At1z">
+    <!-- <a href="https://github.com/At1z">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=At1z&size_weight=0.35&count_weight=0.35&&hide=matlab,jupyter%20notebook,css,c,cmake&layout=donut&langs_count=6&theme=transparent" width="450"/>
-    </a>
+    </a> -->
   </div>
 </div>
 
